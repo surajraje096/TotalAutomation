@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79180" started-at="2020-08-26T15:23:53 IST" finished-at="2020-08-26T15:25:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79180" started-at="2020-08-26T15:23:53 IST" finished-at="2020-08-26T15:25:12 IST">
+      <class name="com.wordpress.qa.testcases.AutomationTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="setup" is-config="true" duration-ms="26213" started-at="2020-08-26T15:23:53 IST" finished-at="2020-08-26T15:24:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Alert()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="Alert" duration-ms="4951" started-at="2020-08-26T15:24:20 IST" finished-at="2020-08-26T15:24:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Alert -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="tearDown" is-config="true" duration-ms="1546" started-at="2020-08-26T15:24:25 IST" finished-at="2020-08-26T15:24:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="setup" is-config="true" duration-ms="12526" started-at="2020-08-26T15:24:26 IST" finished-at="2020-08-26T15:24:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="acti()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="acti" duration-ms="5537" started-at="2020-08-26T15:24:39 IST" finished-at="2020-08-26T15:24:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acti -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="tearDown" is-config="true" duration-ms="1313" started-at="2020-08-26T15:24:44 IST" finished-at="2020-08-26T15:24:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="setup" is-config="true" duration-ms="11548" started-at="2020-08-26T15:24:46 IST" finished-at="2020-08-26T15:24:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="actikp()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="actikp" duration-ms="361" started-at="2020-08-26T15:24:57 IST" finished-at="2020-08-26T15:24:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actikp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="tearDown" is-config="true" duration-ms="1379" started-at="2020-08-26T15:24:57 IST" finished-at="2020-08-26T15:24:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="setup" is-config="true" duration-ms="11596" started-at="2020-08-26T15:24:59 IST" finished-at="2020-08-26T15:25:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="actip()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="actip" duration-ms="1057" started-at="2020-08-26T15:25:10 IST" finished-at="2020-08-26T15:25:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actip -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wordpress.qa.testcases.AutomationTest@1d29cf23]" name="tearDown" is-config="true" duration-ms="951" started-at="2020-08-26T15:25:11 IST" finished-at="2020-08-26T15:25:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wordpress.qa.testcases.AutomationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
